@@ -1,6 +1,6 @@
 # DropHub
-### DropHub is a re-airdrop info-sharing port built on #404(NFT+Memecoin).
-### DropHub Website:  https://bit.ly/drophub
+### A selected airdrop platform with the re-airdrop mechanism & 404Fi-Driven. Soon on L2 Base.
+### DropHub Website:  https://drophub.zone
 ### DropHub X(Twitter): https://twitter.com/0xdrophub
 ### DropHub Discord: https://discord.com/invite/Hqr5zxyqcS
 ### Contact: Telegram  https://t.me/andrew_bit
